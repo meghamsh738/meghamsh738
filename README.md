@@ -50,15 +50,15 @@ A browser editor for inspecting and editing Age of Empires II hotkey profiles, w
 [![Public synthetic demo with House changed to F11; the browser reports one changed binding saved locally.](assets/projects/aoe2-hotkey-editor.webp)](https://github.com/meghamsh738/aoe2-hotkey-editor-demo)
 
 [Open public demo](https://meghamsh738.github.io/aoe2-hotkey-editor-demo/) · [View compiled demo repository](https://github.com/meghamsh738/aoe2-hotkey-editor-demo)
-### [Adaptive AI Workshop](https://github.com/meghamsh738/Aoe2-AI-editor)
+### [Adaptive AI Workshop](https://meghamsh738.github.io/Aoe2-AI-editor/)
 
 A visual editor for building and adapting Age of Empires II strategy plans, with controls for responses and placement policies.
 
-**Experimental · reviewed PR awaiting approval; native game behavior unverified**
+**Experimental · public Pages demo live; native game behavior unverified**
 
-[![AI Workshop overview in a desktop browser, with Britons and Portuguese presets and an experimental, native-game-unverified badge.](assets/projects/aoe2-ai-workshop.png)](https://github.com/meghamsh738/Aoe2-AI-editor)
+[![AI Workshop overview in a desktop browser, with Britons and Portuguese presets and an experimental, native-game-unverified badge.](assets/projects/aoe2-ai-workshop.webp)](https://meghamsh738.github.io/Aoe2-AI-editor/)
 
-[View review PR #1](https://github.com/meghamsh738/Aoe2-AI-editor/pull/1) · [View repository](https://github.com/meghamsh738/Aoe2-AI-editor)
+[Open live editor](https://meghamsh738.github.io/Aoe2-AI-editor/) · [View repository](https://github.com/meghamsh738/Aoe2-AI-editor)
 ### [Buzzer Club](https://meghamsh738.github.io/buzzer-club/)
 
 A hosted quiz-night game with room-code and PIN entry, category picks, a 30-second answer step and a steal round.
