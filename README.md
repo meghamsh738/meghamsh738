@@ -67,7 +67,7 @@ A hosted quiz-night game with room-code and PIN entry, category picks, a 30-seco
 
 [![Buzzer Club desktop landing page with guest room-code and PIN fields and a sign-in-to-host control.](assets/projects/buzzer-club.webp)](https://meghamsh738.github.io/buzzer-club/)
 
-[Open showcase](https://meghamsh738.github.io/buzzer-club/) · [Play Buzzer Club](https://buzzer-club-jeopardy.xpertthuggaming.chatgpt.site/)
+[Open showcase](https://meghamsh738.github.io/buzzer-club/) · [View showcase repository](https://github.com/meghamsh738/buzzer-club) · [Play Buzzer Club](https://buzzer-club-jeopardy.xpertthuggaming.chatgpt.site/)
 
 ## Methods & tools
 
